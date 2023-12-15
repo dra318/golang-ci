@@ -1,5 +1,5 @@
 name: ci-golang-workflow
-on: on: [push ]
+on: [push ]
 jobs:
   check-application:
     runs-on: ubuntu-latest
